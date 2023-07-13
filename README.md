@@ -1,2 +1,2 @@
 # OIBSIP1
-I developed this portfplio website using web development and designing.
+I developed this landing page using html and CSS.
