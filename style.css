@@ -1,0 +1,98 @@
+/* Global Styles */
+body {
+    font-size: 30px;
+    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50;
+    padding: 20;
+    background-color: lightblue;
+    background-image: url(https://3.bp.blogspot.com/-HKAI3lfZyj4/WYxApwPYPYI/AAAAAAAAAVI/N48I3db46t86vY3W7398KQxPpq5KdQzvgCLcBGAs/s1600/8.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+  }
+  
+  .container {
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #090a0a;
+    color: #04090e;
+    padding: 10px;
+  }
+  .img{
+    display:ruby-base-container;
+    justify-content: left;
+    align-items:center;
+    height:1000px;
+    width:1000px;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fffafa;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  #hero {
+    background-color: lightblue;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  #hero h1 {
+    font-size: 100px;
+    margin-bottom: 100px;
+  }
+  
+  #hero p {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #060606;
+    color: #f9fbfa;
+    padding: 10px 20px;
+    text-decoration: navajowhite;
+    border-radius: 5px;
+  }
+  
+  /* Sections Styles */
+  section {
+    padding: 100px 30;
+    text-align: center;
+  }
+  
+  section h2 {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  
+  /* Contact Form Styles */
+  form input,
+  form textarea,
+  form button {
+    font-size: 30px;
+    width: 50%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #0a010100;
+  }
